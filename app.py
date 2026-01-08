@@ -210,7 +210,7 @@ with st.sidebar:
     st.markdown("### 🏠 Home Feed (only home)")
     home_category = st.selectbox(
         "Category",
-        ["Trending", "Popular", "Top Rated", "Now Playing", "Upcoming"],
+        ["trending", "popular", "top_rated", "now_playing", "upcoming"],
         index=0,
     )
     grid_cols = st.slider("Grid columns", 4, 8, 6)
