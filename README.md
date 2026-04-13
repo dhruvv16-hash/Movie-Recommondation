@@ -126,6 +126,16 @@ API_BASE = "http://127.0.0.1:8000"
 
 ## Screenshots
 
+## Screen Recording
+
+### Full App Walkthrough
+
+<video src="MOVIE%20RECOM.mp4" controls width="900" preload="metadata"></video>
+
+If the embedded player does not load on your GitHub view, use the preview below:
+
+[![Watch Screen Recording](preview/home-page.png)](MOVIE%20RECOM.mp4)
+
 ### Home Page
 
 ![Home Page](preview/home-page.png)
