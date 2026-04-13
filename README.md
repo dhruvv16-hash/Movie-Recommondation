@@ -124,17 +124,15 @@ Because non-empty strings are always truthy in Python, this always uses the Rend
 API_BASE = "http://127.0.0.1:8000"
 ```
 
-## Screenshots
-
 ## Screen Recording
 
 ### Full App Walkthrough
 
-<video src="MOVIE%20RECOM.mp4" controls width="900" preload="metadata"></video>
+[![Watch Screen Recording](https://img.shields.io/badge/Watch-Screen%20Recording-red?style=for-the-badge&logo=youtube)](MOVIE%20RECOM.mp4)
 
-If the embedded player does not load on your GitHub view, use the preview below:
+Direct video file: [MOVIE RECOM.mp4](MOVIE%20RECOM.mp4)
 
-[![Watch Screen Recording](preview/home-page.png)](MOVIE%20RECOM.mp4)
+## Screenshots
 
 ### Home Page
 
